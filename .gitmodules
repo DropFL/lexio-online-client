@@ -1,0 +1,3 @@
+[submodule "shared-logic"]
+	path = assets/script/shared
+	url = git@github.com:DropFL/lexio-online-shared-logic.git
